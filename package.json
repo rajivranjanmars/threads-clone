@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.23.5",
+    "@clerk/nextjs": "^7.9.4",
     "@clerk/themes": "^1.7.7",
     "@hookform/resolvers": "^3.3.2",
     "@radix-ui/react-label": "^2.0.2",
@@ -25,9 +25,9 @@
     "eslint": "8.49.0",
     "eslint-config-next": "13.4.19",
     "lucide-react": "^0.287.0",
-    "mongoose": "^7.5.2",
-    "next": "13.4.19",
-    "postcss": "8.4.29",
+    "mongoose": "^7.8.10",
+    "next": "16.3.5",
+    "postcss": "8.5.28",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.47.0",
@@ -38,6 +38,6 @@
     "tailwindcss-animations": "^2.0.0",
     "typescript": "5.2.2",
     "uploadthing": "^5.6.1",
-    "zod": "^3.22.4"
+    "zod": "^4.6.5"
   }
 }
